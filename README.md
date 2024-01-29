@@ -26,4 +26,18 @@ insights and information that can be visualized in a user-friendly manner.
     -git clone https://github.com/PhonePe/pulse.git 
     -above command passed from terminal and data is saved to local project repository
 
-# Extracting data
+# Extracting data and migrating to SQL database:
+
+    - Data is in following folder structure
+    - Statewise data is extracted for every year and quarter
+    - Data is converted to pandas dataframe and uploaded to MySQL
+
+![image_1](https://github.com/MeghanaNagraja/Phonepe-Pulse-Data-Visualization-and-Exploration/assets/122547199/96ae24cb-756e-4cbc-ab62-ba0bb7bb8933)
+
+# Streamlit dashboard with data insights:
+
+    - Top phone brands
+    - Geomapping statewise overall transaction
+    - Top 10 transactions districtwise
+    - Growth in users
+    - Least transaction states etc
