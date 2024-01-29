@@ -41,3 +41,6 @@ insights and information that can be visualized in a user-friendly manner.
     - Top 10 transactions districtwise
     - Growth in users
     - Least transaction states etc
+
+![image_2](https://github.com/MeghanaNagraja/Phonepe-Pulse-Data-Visualization-and-Exploration/assets/122547199/f44321ed-71ca-40df-b0e6-ca79620d6841)
+![image_3](https://github.com/MeghanaNagraja/Phonepe-Pulse-Data-Visualization-and-Exploration/assets/122547199/fa7754c9-5498-4ccf-9262-1f6577c023f1)
